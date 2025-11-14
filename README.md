@@ -1,5 +1,19 @@
 **🚨 CrisisMail — Offline Communication Reinvented**
 
+<p align="center">
+  <img src="https://github.com/placeholder/badge-offline.png" height="65">
+  <img src="https://github.com/placeholder/badge-ai.png" height="65">
+  <img src="https://github.com/placeholder/badge-encryption.png" height="65">
+  <img src="https://github.com/placeholder/badge-qrrouting.png" height="65">
+</p>
+
+<p align="center">
+  <img src="https://github.com/placeholder/badge-critical.png" height="65">
+  <img src="https://github.com/placeholder/badge-misinformation.png" height="65">
+  <img src="https://github.com/placeholder/badge-fraud-detection.png" height="65">
+</p>
+
+
 🧭 When the world goes dark…
 
 Phones die. Towers collapse. Networks vanish.
